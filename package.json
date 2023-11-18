@@ -1,0 +1,18 @@
+{
+  "name": "facebook2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/rohitsvt/facebooksvt.git",
+  "scripts": {
+    "watch": "postcss ./src/css/tailwind.css -o /public/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "postcss-cli": "^10.0.0",
+    "tailwindcss": "^3.1.8"
+  }
+}
